@@ -1,0 +1,14 @@
+.effect-overlay {
+    background: rgba(0,0,0,0.7);
+    min-height: 100vh;
+}
+
+.btn-flat {
+    -webkit-border-radius: unset;
+    -moz-border-radius: unset;
+    border-radius: unset;
+}
+
+.dataTables_wrapper {
+    padding: unset;
+}
